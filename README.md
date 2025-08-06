@@ -14,14 +14,6 @@ To strengthen my skills in Data Structures and Algorithms using Java while simul
 
 Open Source Contributions, Problem-Solving, Cloud Computing, System Design
 
-## 👀 Visitor Count
-
-<!-- ⚠️ Important: Replace 'Ravi-456' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/username=Ravi-456/count.svg" />
-  <br>Thank you for visiting my profile! Come back soon!
-</p>
-
 ## 🏆 GitHub Trophies
 
 <!-- ⚠️ Important: Replace 'Ravi-456' with your actual GitHub username in the URL below -->
@@ -41,13 +33,6 @@ Open Source Contributions, Problem-Solving, Cloud Computing, System Design
 <!-- ⚠️ Important: Replace 'Ravi-456' with your actual GitHub username in the URL below -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi-456&layout=compact&langs_count=10&theme=default"/>
-</div>
-
-## 🔥 Contribution Streak
-
-<!-- ⚠️ Important: Replace 'Ravi-456' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Ravi-456&theme=default&hide_border=false" />
 </div>
 
 ## 💻 Tech Stack
